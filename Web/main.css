@@ -1,0 +1,105 @@
+body
+{
+	background-image: url("https://kbdevstorage1.blob.core.windows.net/asset-blobs/19201_en_1");
+}
+
+.container
+{
+	padding-top: 1%;
+	background: rgba(100,205,244,.8);
+	width: 80%;
+	margin: 2%;
+	text-align: center;
+	border-radius: 10px; 
+	box-shadow: 16px 20px 12px -5px rgba(0,0,0,0.72);
+}
+
+.cabecera
+{
+	overflow: hidden;
+	margin-left: 2%;
+	padding-bottom: 2%;
+}
+
+#ipn_logo
+{
+	float: left;
+	width: 15%;
+	margin-left: 10%;
+}
+
+#escom_logo
+{
+	float: left;
+	width: 10%;
+	margin-left: 2%;
+	margin-top: 1%;
+}
+
+.cabecera h1
+{
+	float: left;
+}
+
+.menu
+{
+	background: rgba(77,60,228,.2);
+	width: 70%;
+	padding: 10px;
+	margin-top: -5px;
+	margin-bottom: -5px;
+	border-radius: 15px;
+	font-size: 30px;
+}
+
+.temas
+{
+	background: rgba(155,76,244,.7);
+	text-align: left;
+	width: 25%;
+	padding: 5px;
+	margin-top: 10px;
+	border-radius: 10px;
+	float: left;
+}
+
+.temas ol ul li:hover
+{
+	background: rgba(77,60,228,.5);
+	border-radius: 5px;
+	box-shadow: 5px 7px 15px -5px rgba(0,0,0,0.80);
+	cursor: pointer;
+}
+
+.central
+{
+	overflow: hidden;
+}
+
+.derecha
+{
+	padding: 4%;
+	float: center;
+	margin-left: 28%;
+	margin-right: 2%;
+	margin-top: 2%;
+	height: 28em;
+}
+
+.principal
+{
+	margin: -5%;
+	padding: 1px;
+	border:  none;
+}
+
+.datos
+{
+	background: rgba(77,60,228,.5);
+	margin-left: -9%; 
+	width: 114%;
+	border-radius: 15px;
+	text-align: left;
+	margin-top: 10%;
+	padding: 2%;
+}
